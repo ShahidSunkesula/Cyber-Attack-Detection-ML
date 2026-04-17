@@ -46,6 +46,16 @@ This project detects cyber attacks in network systems using machine learning mod
 pip install -r requirements.txt
 python app.py
 ```
+## 📸 Output Screenshots
+
+### Home Page
+![Home](home.png)
+
+### Model Accuracy
+![Model](model.png)
+
+### Prediction Result
+![Prediction](prediction.png)
 
 ## 🚀 Future Improvements
 
